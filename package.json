@@ -1,0 +1,9 @@
+{
+  "name": "pic-download",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "prettier": "^2.7.1"
+  }
+}
